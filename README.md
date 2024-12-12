@@ -17,7 +17,7 @@ Use your knowledge of object-oriented programming, one-dimensional (1D) arrays, 
 
 ## Dataset
 
-Dataset: user created datatype
+Dataset: user created dataset
 
 - **Animal** - types of animals
 - **Cat** - name, breed, and gender of cats
@@ -25,21 +25,14 @@ Dataset: user created datatype
 
 ## UML Diagram
 
+UML Diagram for my project:
 
-https://docs.google.com/drawings/d/1f1iXLkO97vQ42txyTZpfMLxVmX8ISr-XvOtLjgzDqMk/edit?usp=sharing
+https://docs.google.com/drawings/d/1f1iXLkO97vQ42txyTZpfMLxVmX8ISr-XvOtLjgzDqMk/edit
 
 ## Video Demo
 
-Record a short video of your abstract art animation to display here on your README. You can do this by:
 
-- Screen record your project running on Code.org.
-- Upload that recording to YouTube.
-- Take a thumbnail for your image.
-- Upload the thumbnail image to your repo.
-- Use the following markdown
-
-[![Thumbnail for my projet](nameOfThumbnail.png)](youtube-URL-here)
 
 ## Description
 
-Write a description of your project here. In your description, include as many vocab words from our class to explain your User Story, the chosen dataset and how your project addressed that users goals. If your project used the Scanner class for user input, explain how the user will interact with your project.
+When my  project is executed, it randomly pops up a random type of dog and cat on the display panel (on code.org). Then a sound is played correlating with the animals that are displayed. 
